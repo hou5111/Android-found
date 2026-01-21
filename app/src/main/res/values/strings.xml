@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">通讯录</string>
+
+    <!-- 搜索相关字符串 -->
+    <string name="search_no_results">未找到匹配 \"%s\" 的联系人</string>
+    <string name="search_found_results">找到 %d 个匹配 \"%s\" 的联系人</string>
+    <string name="search_error">搜索出错: %s</string>
+
+    <!-- 其他字符串 -->
+    <string name="contact_added">联系人添加成功</string>
+    <string name="contact_updated">联系人已更新</string>
+    <string name="contact_deleted">联系人已删除</string>
+</resources>
