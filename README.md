@@ -14,8 +14,11 @@
 - Android SDK
 - SQLite数据库
 
-## 作者
-侯玉婷
+## 快速开始
+1. 克隆项目：`git clone https://github.com/hou5111/Android-found.git`
+2. 使用 Android Studio 打开
+3. 连接设备或模拟器运行
 
-GitHub: [hou5111](https://github.com/hou5111)
-邮箱: yllmf0824@qq.com
+---
+
+*项目由 [hou5111](https://github.com/hou5111) 开发*
